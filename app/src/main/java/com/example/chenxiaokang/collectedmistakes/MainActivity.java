@@ -1,9 +1,10 @@
 package com.example.chenxiaokang.collectedmistakes;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.chenxiaokang.collectedmistakes.util.BasicActivity;
+
+public class MainActivity extends BasicActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
